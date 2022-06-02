@@ -2,7 +2,7 @@
 Calculadora Simples feita em JavaScript
 
 ## Proposta:
-> Monte a lógica de uma calculadora simples, após isso faça o código no github.
+> Montar a lógica para uma calculadora simples.
 > Criar uma função para cada operação:
 * Somar
 * Subtrair
